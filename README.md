@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Requirement Analysis](#requirement-analysis)
+- [ER Model](#er-model)
 - [Working Demo](#working-demo)
 - [Architecture](#architecture)
 - [Setup and Installation](#setup-and-installation)
@@ -47,7 +47,7 @@ This project has key features implemented for a basic logistics solution. Future
 - **JWT**: For secure user sessions
 
 ---
-## Requirement Analysis(ER Diagram)
+## ER Model
 - The following ER Model outlines the key entities and their relationships in the on-demand logistics platform. Each entity plays a specific role in handling users, drivers, vehicles, bookings, and tracking, ensuring seamless communication between different components.
 ![erFinal](https://github.com/user-attachments/assets/c7313dc9-efd2-4fdf-a005-343ba7c05a11)
 You can find more details about ER Model in [ER Model Document](https://docs.google.com/document/d/1L-JsiRXoZfHooq6RGm6aCdmI_cKQKWjOL48TMunbImA/edit?usp=sharing).
@@ -60,6 +60,7 @@ The platform is designed with future scalability in mind. :
 3. **Kafka-Based Job Assignment**: For efficient distribution of jobs to drivers.
 4. **Redis Caching**: To store real-time GPS and driver availability data, reducing database load.
 5. **Sharded Databases**: For better performance and scalability.
+
 ![architectureFullNFinal](https://github.com/user-attachments/assets/6520d7b6-6655-414b-b565-45994455e80c)
 
 You can find more details about the architecture in the [Architecture Solution Document](https://docs.google.com/document/d/1qslSeR_-mT1K6xMu9GhbkK2hiR95shcbWR4ueOSTXlY/edit?usp=sharing).
@@ -67,6 +68,8 @@ You can find more details about the architecture in the [Architecture Solution D
 ---
 
 ## Working Demo
+
+https://github.com/user-attachments/assets/d15c2b0b-2a03-446f-9fef-528ffff90d07
 
 ---
 ## Setup and Installation
