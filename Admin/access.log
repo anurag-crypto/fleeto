@@ -1,0 +1,86 @@
+GET /api/items 304  - 276.475 ms
+
+POST /api/users/register 201 224 - 148.953 ms
+GET /api/items 200 2 - 144.732 ms
+GET /api/orders 200 2 - 14.670 ms
+GET /api/customers 200 2 - 7.822 ms
+GET /api/delivery-vehicles 200 2 - 4.798 ms
+GET /api/delivery-vehicles 304  - 4.391 ms
+GET /api/customers 304  - 5.553 ms
+GET /api/items 304  - 1.371 ms
+POST /api/users/login 401 28 - 14.263 ms
+POST /api/users/register 500 112 - 32.065 ms
+POST /api/users/register 201 224 - 731.198 ms
+POST /api/users/register 201 224 - 289.544 ms
+GET /api/customers 304  - 139.102 ms
+GET /api/delivery-vehicles 304  - 90.751 ms
+GET /api/customers 304  - 135.729 ms
+GET /api/orders 304  - 131.275 ms
+GET /api/delivery-vehicles 304  - 143.970 ms
+GET /api/items 304  - 97.478 ms
+POST /api/users/login 401 28 - 106.527 ms
+POST /api/users/login 200 224 - 184.112 ms
+GET /api/customers 304  - 89.691 ms
+GET /api/delivery-vehicles 304  - 2604.008 ms
+GET /api/delivery-vehicles 304  - 99.018 ms
+GET /api/orders 304  - 2580.122 ms
+GET /api/customers 304  - 2584.675 ms
+GET /api/customers 304  - 79.587 ms
+POST /api/customers 201 158 - 116.193 ms
+GET /api/delivery-vehicles 304  - 81.272 ms
+POST /api/delivery-vehicles 201 213 - 4953.447 ms
+GET /api/orders 304  - 330.309 ms
+GET /api/customers 200 160 - 335.121 ms
+GET /api/delivery-vehicles 200 215 - 394.310 ms
+GET /api/items 304  - 243.225 ms
+POST /api/items 201 155 - 94.875 ms
+GET /api/delivery-vehicles 304  - 81.349 ms
+GET /api/customers 304  - 87.977 ms
+GET /api/orders 304  - 93.722 ms
+GET /api/items 200 157 - 98.183 ms
+GET /api/delivery-vehicles 304  - 110.590 ms
+GET /api/customers 304  - 122.198 ms
+GET /api/orders 304  - 133.608 ms
+GET /api/items 200 149 - 91.545 ms
+GET /api/delivery-vehicles 304  - 74.757 ms
+GET /api/customers 304  - 79.737 ms
+GET /api/orders 304  - 86.453 ms
+POST /api/users/login 200 224 - 230.180 ms
+GET /api/orders 304  - 101.607 ms
+GET /api/customers 304  - 99.614 ms
+GET /api/delivery-vehicles 304  - 99.450 ms
+GET /api/items 304  - 300.993 ms
+GET /api/delivery-vehicles 304  - 545.092 ms
+GET /api/delivery-vehicles 304  - 541.528 ms
+GET /api/customers 304  - 2527.188 ms
+GET /api/orders 304  - 2586.731 ms
+POST /api/users/login 200 224 - 106.919 ms
+GET /api/orders 304  - 95.592 ms
+GET /api/customers 304  - 90.902 ms
+GET /api/delivery-vehicles 304  - 87.360 ms
+GET /api/items 304  - 85.184 ms
+GET /api/delivery-vehicles 304  - 88.969 ms
+GET /api/orders 304  - 92.919 ms
+GET /api/customers 304  - 90.703 ms
+POST /api/users/register 201 224 - 231.720 ms
+GET /api/items 304  - 230.165 ms
+GET /api/orders 304  - 245.420 ms
+GET /api/delivery-vehicles 304  - 238.535 ms
+GET /api/customers 304  - 248.075 ms
+POST /api/users/login 401 28 - 735.973 ms
+POST /api/users/register 201 224 - 420.699 ms
+GET /api/items 304  - 98.974 ms
+GET /api/orders 304  - 97.899 ms
+GET /api/delivery-vehicles 304  - 681.935 ms
+GET /api/customers 304  - 688.714 ms
+GET /api/delivery-vehicles 304  - 125.829 ms
+GET /api/customers 304  - 125.609 ms
+GET /api/customers 304  - 870.667 ms
+GET /api/orders 304  - 887.227 ms
+GET /api/delivery-vehicles 304  - 1374.379 ms
+GET /api/delivery-vehicles 304  - 1769.352 ms
+GET /api/orders 304  - 1109.167 ms
+GET /api/customers 304  - 1625.001 ms
+GET /api/delivery-vehicles 304  - 1708.031 ms
+POST /api/users/login 401 33 - 2719.278 ms
+POST /api/users/login 200 224 - 126.849 ms
