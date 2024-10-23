@@ -1,4 +1,4 @@
-# Meaningless: On-Demand Logistics Platform
+# Fleeto: On-Demand Logistics Platform
 
 ### Table of Contents
 - [Overview](#overview)
@@ -14,7 +14,7 @@
 
 ## Overview
 
-**Meaningless** is an on-demand logistics platform designed to connect users with drivers for real-time booking and tracking services. The platform is built with a **Flutter** app for users and a **web-based admin panel** for managing bookings, drivers, and analytics.
+**Fleeto** is an on-demand logistics platform designed to connect users with drivers for real-time booking and tracking services. The platform is built with a **Flutter** app for users and a **web-based admin panel** for managing bookings, drivers, and analytics.
 
 This project has key features implemented for a basic logistics solution. Future versions will integrate scalability enhancements like load balancing, microservices, and real-time data caching.
 
